@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Art  Stick  Generator",
+  "description": "An application to generate images in pixel art or stick figure styles using the Gemini API. Supports multiple API keys with round-robin usage, multiple prompts, and saves settings locally.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
