@@ -256,7 +256,7 @@ const App: React.FC = () => {
 
       <header className="flex justify-between items-center mb-6 pb-4 border-b-4 border-gray-700">
         <h1 className="text-xl sm:text-2xl md:text-3xl text-cyan-400 uppercase tracking-wider">
-          AI Image Gen
+          XS GEN IMG
         </h1>
         <Button onClick={() => setIsSettingsOpen(true)} variant="secondary" className="flex items-center gap-2">
             <SettingsIcon className="w-5 h-5"/>
